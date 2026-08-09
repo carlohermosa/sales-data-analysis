@@ -27,18 +27,7 @@ The project includes:
 
 The goal of this project is to turn raw sales data into useful business insights and present the results through Python analysis and an interactive Power BI dashboard.
 
-## Author
-
-**Carlo Villahermosa**
-
-
 This project analyzes sales performance using Python and pandas to identify key business trends across regions, products, categories, sales channels, customer segments, and time periods.
-
-### Tools Used
-- Python
-- pandas
-- Matplotlib
-- Google Colab
 
 ### Data Preparation
 The dataset was inspected for missing values, duplicates, inconsistent text values, and incorrect data types. Duplicate rows were removed, city and category values were standardized, and the order date was converted to datetime format.
@@ -76,3 +65,7 @@ Additional features were created, including:
 - Data visualization
 - Business insight generation
 - Exporting analytical results
+
+## Author
+
+**Carlo Villahermosa**
