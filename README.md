@@ -9,6 +9,7 @@ This project analyzes sales data using Python and Power BI to understand busines
 * Python
 * pandas
 * Matplotlib
+* Power Bi
 
 The project includes:
 
